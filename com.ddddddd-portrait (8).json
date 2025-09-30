@@ -1,0 +1,7 @@
+{
+  "fullscreenAdProvider": "InHouseFullscreen",
+  "bannerAdProvider": "InHouseBanner",
+  "inHouseRewardedJsonUrl": "https://test.reboundize.com/adsurl/portrait_all_ads_video.json",
+  "inHouseBannerJsonUrl": "https://test.reboundize.com/adsurl/com.piano.app1.Banner.json",
+  "currentGameId": "Game1"
+}
