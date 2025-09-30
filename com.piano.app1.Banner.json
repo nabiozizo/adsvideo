@@ -1,0 +1,19 @@
+{
+  "ads": [
+    {
+      "videoUrl": "https://nabiozizo.github.io/adsvideo/Banner-Hair-Master.mp4",
+      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "Game12"
+    },
+    {
+      "videoUrl": "https://nabiozizo.github.io/adsvideo/Drawing-Color-banner.mp4",
+      "storeUrl": "amzn://apps/android?p=com.UltimateHero.BattlefieldShooter",
+      "gameId": "game12"
+    },
+    {
+      "videoUrl": "https://nabiozizo.github.io/adsvideo/Hero-Rescue-baner.mp4",
+      "storeUrl": "amzn://apps/android?p=com.AlphaWolf.PackSurvival",
+      "gameId": "game12"
+    }
+  ]
+}
