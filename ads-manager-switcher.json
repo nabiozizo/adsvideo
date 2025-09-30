@@ -1,0 +1,8 @@
+{
+  "fullscreenAdProvider": "InHouseFullscreen",
+  "bannerAdProvider": "InHouseBanner",
+  "inHouseRewardedJsonUrl": "https://nabiozizo.github.io/adsvideo/portrait_all_ads_video.json",
+  "inHouseBannerJsonUrl": "https://nabiozizo.github.io/adsvideo/com.piano.app1.Banner.json",
+  "currentGameId": "Game1"
+
+}
