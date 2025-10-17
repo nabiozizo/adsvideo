@@ -2,20 +2,21 @@
   "ads": [
     {
       "videoUrl": "https://nabiozizo.github.io/adsvideo/Subway-Surfers.mp4",
-      "gameLink": "https://i.sng.link/Dvcln/34bl?pcrid=subway",
+      "gameLink": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
       "gameId": "SubwayGame"
     },
     {
       "videoUrl": "https://nabiozizo.github.io/adsvideo/Home-Design-House%20Story.mp4",
-      "gameLink": "https://i.sng.link/Dvcln/34bl?pcrn=appfrom&pcrid=sources",
-      "gameId": "Game1"
+      "gameLink": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.homematch",
+      "gameId": "bigcool"
     },
     {
       "videoUrl": "https://nabiozizo.github.io/adsvideo/Jewels-Match-Blast-Match3.mp4",
-      "gameLink": "https://i.sng.link/Dvcln/34bl?pcrid=jewels",
+      "gameLink": "https://play.google.com/store/apps/details?id=com.jewelsblast.ivygames.Adventure.free",
       "gameId": "JewelsMatchGame"
     }
   ]
 }
+
 
 
