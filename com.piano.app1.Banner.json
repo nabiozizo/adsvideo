@@ -3,17 +3,17 @@
     {
       "videoUrl": "https://nabiozizo.github.io/adsvideo/Banner-Hair-Master.mp4",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.TheSurvivorIsland.BuildYourVillage",
-      "gameId": "Game12"
+      "gameId": "Banner-Hairmaster"
     },
     {
       "videoUrl": "https://nabiozizo.github.io/adsvideo/Drawing-Color-banner.mp4",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.UltimateHero.BattlefieldShooter",
-      "gameId": "game12"
+      "gameId": "banner-BattlefieldShooter"
     },
     {
       "videoUrl": "https://nabiozizo.github.io/adsvideo/Hero-Rescue-baner.mp4",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.AlphaWolf.PackSurvival",
-      "gameId": "game12"
+      "gameId": "banner-AlphaWolf"
     }
   ]
 }
