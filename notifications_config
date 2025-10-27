@@ -10,22 +10,22 @@
     },
     {
       "id": 2,
-      "title": "Lunchtime Offer",
-      "message": "Grab your lunch reward!",
+      "title": "Lunchtime Surprise",
+      "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
       "showHour": 19
     },
     {
-      "id": 2,
-      "title": "Lunchtime Offer",
-      "message": "Grab your lunch reward!",
+      "id": 3,
+      "title": "Afternoon Boost",
+      "message": "Recharge your afternoon with a bonus!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
       "showHour": 20
     },
     {
-      "id": 2,
-      "title": "Lunchtime Offer",
-      "message": "Grab your lunch reward!",
+      "id": 4,
+      "title": "Evening Treat",
+      "message": "Relax and claim your evening reward!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
       "showHour": 21
     }
