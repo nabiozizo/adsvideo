@@ -5,28 +5,28 @@
       "id": 1,
       "title": "Morning Deal",
       "message": "Start your day with a bonus offer!",
-      "iconUrl": "https://game.com/assets/morning_icon.png",
+      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
       "showHour": 18
     },
     {
       "id": 2,
       "title": "Lunchtime Offer",
       "message": "Grab your lunch reward!",
-      "iconUrl": "https://game.com/assets/lunch_icon.png",
+      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
       "showHour": 19
     },
     {
       "id": 2,
       "title": "Lunchtime Offer",
       "message": "Grab your lunch reward!",
-      "iconUrl": "https://game.com/assets/lunch_icon.png",
+      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
       "showHour": 20
     },
     {
       "id": 2,
       "title": "Lunchtime Offer",
       "message": "Grab your lunch reward!",
-      "iconUrl": "https://game.com/assets/lunch_icon.png",
+      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
       "showHour": 21
     }
   ]
