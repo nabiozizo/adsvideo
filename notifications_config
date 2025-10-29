@@ -1,33 +1,22 @@
 {
-  "version": 4,
+  "version": 5,
   "notifications": [
     {
       "id": 1,
       "title": "Morning Deal",
       "message": "Start your day with a bonus offer!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
-      "showHour": 18
+      "showHour": 18,
+      "showMinute": 30
     },
     {
       "id": 2,
       "title": "Lunchtime Surprise",
       "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
-      "showHour": 19
-    },
-    {
-      "id": 3,
-      "title": "Afternoon Boost",
-      "message": "Recharge your afternoon with a bonus!",
-      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
-      "showHour": 20
-    },
-    {
-      "id": 4,
-      "title": "Evening Treat",
-      "message": "Relax and claim your evening reward!",
-      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
-      "showHour": 21
+      "showHour": 19,
+      "showMinute": 30,
+      "clickUrl": "https://google.com"
     }
   ]
 }
