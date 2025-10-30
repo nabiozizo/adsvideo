@@ -7,7 +7,8 @@
       "message": "Start your day with a bonus offer!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
       "showHour": 18,
-      "showMinute": 30
+      "showMinute": 30,
+      "clickUrl": "https://play.google.com/store/games?hl=en"
     },
     {
       "id": 2,
