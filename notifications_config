@@ -5,19 +5,19 @@
       "id": 1,
       "title": "Morning Deal",
       "message": "Start your day with a bonus offer!",
-      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon001.png",
-      "showHour": 18,
-      "showMinute": 30,
-      "clickUrl": "https://play.google.com/store/games?hl=en"
+      "iconUrl": "https://m.media-amazon.com/images/I/81nNkoXgUbL.png",
+      "showHour": 10,
+      "showMinute": 59,
+      "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
     },
     {
       "id": 2,
       "title": "Lunchtime Surprise",
       "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
-      "showHour": 19,
-      "showMinute": 30,
-      "clickUrl": "https://google.com"
+      "showHour": 10,
+      "showMinute": 58,
+      "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
     }
   ]
 }
