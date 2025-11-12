@@ -6,8 +6,8 @@
       "title": "Morning Deal",
       "message": "Start your day with a bonus offer!",
       "iconUrl": "https://m.media-amazon.com/images/I/81nNkoXgUbL.png",
-      "showHour": 10,
-      "showMinute": 59,
+      "showHour": 11,
+      "showMinute": 05,
       "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
     },
     {
@@ -15,8 +15,8 @@
       "title": "Lunchtime Surprise",
       "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
-      "showHour": 10,
-      "showMinute": 58,
+      "showHour": 11,
+      "showMinute": 06,
       "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
     }
   ]
