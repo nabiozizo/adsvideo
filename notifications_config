@@ -7,7 +7,7 @@
       "message": "Start your day with a bonus offer!",
       "iconUrl": "https://m.media-amazon.com/images/I/81nNkoXgUbL.png",
       "showHour": 11,
-      "showMinute": 05,
+      "showMinute": 15,
       "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
     },
     {
@@ -16,7 +16,7 @@
       "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
       "showHour": 11,
-      "showMinute": 06,
+      "showMinute": 14,
       "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
     }
   ]
