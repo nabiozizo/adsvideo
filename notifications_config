@@ -1,13 +1,13 @@
 {
-  "version": 7,
+  "version": 8,
   "notifications": [
     {
       "id": 1,
       "title": "Morning Deal",
       "message": "Start your day with a bonus offer!",
       "iconUrl": "https://m.media-amazon.com/images/I/81nNkoXgUbL.png",
-      "showHour": 11,
-      "showMinute": 50,
+      "showHour": 10,
+      "showMinute": 58,
       "clickUrl": "https://rebo.sng.link/D5oay/0iip8?pcrn=notification"
     },
     {
@@ -15,8 +15,8 @@
       "title": "Lunchtime Surprise",
       "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
-      "showHour": 11,
-      "showMinute": 49,
+      "showHour": 10,
+      "showMinute": 59,
       "clickUrl": "https://rebo.sng.link/D5oay/0iip8?pcrn=notification"
     },
     {
@@ -24,8 +24,8 @@
       "title": "Lunchtime Surprise",
       "message": "Enjoy a special reward at lunch!",
       "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
-      "showHour": 11,
-      "showMinute": 51,
+      "showHour": 10,
+      "showMinute": 57,
       "clickUrl": "https://rebo.sng.link/D5oay/0iip8?pcrn=notification"
     }
   ]
