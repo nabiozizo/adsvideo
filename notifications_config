@@ -18,6 +18,15 @@
       "showHour": 11,
       "showMinute": 14,
       "clickUrl": "amzn://apps/android?p=com.Save.My.Pet.game"
+    },
+    {
+      "id": 2,
+      "title": "Lunchtime Surprise",
+      "message": "Enjoy a special reward at lunch!",
+      "iconUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/icon002.png",
+      "showHour": 11,
+      "showMinute": 16,
+      "clickUrl": ""
     }
   ]
 }
