@@ -1,9 +1,9 @@
 {
   "fullscreenAdProvider": "InHouseFullscreen",
   "bannerAdProvider": "InHouseBanner",
-  "inHouseRewardedJsonUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/portrait_all_ads_video.json",
-  "inHouseBannerJsonUrl": "https://raw.githubusercontent.com/nabiozizo/adsvideo/main/com.piano.app1.Banner.json",
+  "inHouseRewardedJsonUrl": "https://test.reboundize.com/adsurl/portrait_all_ads_video.json",
+  "inHouseBannerJsonUrl": "https://test.reboundize.com/adsurl/com.piano.app1.Banner.json",
   "currentGameId": "Game1",
-  "adFrequency": 90,
+  "adFrequency": 30,
   "closeButtonDelay": 5
 }
