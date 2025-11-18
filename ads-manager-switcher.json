@@ -1,10 +1,11 @@
 {
   "fullscreenAdProvider": "InHouseFullscreen",
   "bannerAdProvider": "InHouseBanner",
-  "inHouseRewardedJsonUrl": "https://test.reboundize.com/adsurl/portrait_all_ads_videopiano.json",
+  "inHouseRewardedJsonUrl": "https://test.reboundize.com/adsurl/portrait_all_ads_video2.json",
   "inHouseBannerJsonUrl": "https://test.reboundize.com/adsurl/com.piano.app1.Banner.json",
   "currentGameId": "Game1",
   "adFrequency": 30,
   "closeButtonDelay": 5
 }
+
 
