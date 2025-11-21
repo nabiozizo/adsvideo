@@ -1,0 +1,292 @@
+{
+  "version": 10,
+  "dailyConfig": {
+    "notificationsPerDay": 5,
+    "internalCount": 3,
+    "externalCount": 2,
+    "enabled": true
+  },
+  "timeSlots": [
+    {
+      "name": "morning",
+      "startHour": 8,
+      "endHour": 12,
+      "maxNotifications": 5,
+      "enabled": true
+    },
+    {
+      "name": "afternoon",
+      "startHour": 12,
+      "endHour": 18,
+      "maxNotifications": 5,
+      "enabled": true
+    },
+    {
+      "name": "evening",
+      "startHour": 18,
+      "endHour": 22,
+      "maxNotifications": 5,
+      "enabled": true
+    }
+  ],
+  "notificationPools": {
+    "internal": [
+      {
+        "id": "daily_bonus_1",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_2",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_3",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_4",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_5",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_6",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_7",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_8",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_9",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_10",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_11",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_12",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_13",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_14",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_15",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_16",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_17",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_18",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_19",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "daily_bonus_20",
+        "title": "Daily Bonus Ready!",
+        "message": "Claim your rewards now!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      }
+    ],
+    "external": [
+      {
+        "id": "external_morning_deal_1",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_2",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_3",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_4",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_5",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_6",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_7",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_8",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_9",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      },
+      {
+        "id": "external_morning_deal_10",
+        "title": "Morning Deal",
+        "message": "Start your day with a bonus offer!",
+        "iconUrl": "https://m.media-amazon.com/images/I/71vsfnxT3cL.png",
+        "clickUrl": "https://rebo.sng.link/D5oay/zekl?pcrn=notification",
+        "timeSlots": ["morning", "afternoon", "evening"],
+        "repeatDaily": false
+      }
+    ]
+  },
+  "rules": {
+    "quietHoursStart": 22,
+    "quietHoursEnd": 8
+  }
+}
