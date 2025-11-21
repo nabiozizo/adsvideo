@@ -30,7 +30,7 @@
     }
   ],
   "notificationPools": {
-    "internal": [
+    "internalNotifications": [
       {
         "id": "daily_bonus_1",
         "title": "Daily Bonus Ready!",
@@ -192,7 +192,7 @@
         "repeatDaily": false
       }
     ],
-    "external": [
+    "externalNotifications": [
       {
         "id": "external_morning_deal_1",
         "title": "Morning Deal",
