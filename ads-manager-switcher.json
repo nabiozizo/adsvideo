@@ -5,8 +5,6 @@
   "inHouseBannerJsonUrl": "https://test.reboundize.com/adsurl/com.piano.app1.Banner.json",
   "currentGameId": "piano",
   "adFrequency": 30,
-  "closeButtonDelay": 5
+  "closeButtonDelay": 5,
+  "appPrice": 0.00
 }
-
-
-
