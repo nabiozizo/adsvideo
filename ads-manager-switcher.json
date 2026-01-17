@@ -6,6 +6,7 @@
   "currentGameId": "piano",
   "adFrequency": 30,
   "closeButtonDelay": 5,
-  "appPrice": 2.99
+  "appPrice": 2.99,
+  "vipVideoUrl": "https://test.reboundize.com/videoads/Role_Playing_Games/Fashion_Show_Dress_Up/Fashion-walk-001-9.16-(portrait).mp4",
+  "vipProductSku": "sku.sku.sku"
 }
-
