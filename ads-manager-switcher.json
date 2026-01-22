@@ -7,9 +7,10 @@
   "adFrequency": 30,
   "closeButtonDelay": 5,
   "appPrice": 2.99,
-  "vipVideoUrl": "https://test.reboundize.com/videoads/NEW-BANNERS1/Survival_island_banner.mp4",
+  "vipVideoUrl": "https://test.reboundize.com/vip_subscription/dancing_cat/vipsub.mp4",
   "vipProductSku": "com.Music.Cat.Piano.VIP-Subscription"
 }
+
 
 
 
